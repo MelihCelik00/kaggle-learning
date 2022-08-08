@@ -3,4 +3,6 @@ import firstmodel as fm
 
 #intro.Introduction()
 
-fm.first_model()
+firstModel = fm.FirstMlModel()
+
+firstModel.Process()
